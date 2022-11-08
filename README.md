@@ -1,7 +1,8 @@
-## Olá, eu sou Fabio Matheus , Desenvolvedor web 
-<div>
+## Olá, eu sou Fabio Matheus, Desenvolvedor FullStack
+<div align="center">
   <a href="https://github.com/FabioMatheus777">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioMatheus777&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioMatheus777&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMatheus777&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  <img height="180em" width="120em" src="https://media.tenor.com/rkY5QA5c3VAAAAAM/gato-digitando.gif"/>
  
