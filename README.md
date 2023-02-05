@@ -14,7 +14,7 @@
   <img align="center" alt="Fabio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fabio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fabio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><br><br>
-  <img height="180em" width="120em" src="https://media.tenor.com/rkY5QA5c3VAAAAAM/gato-digitando.gif"/>
+  
 </div>
  
  ##
@@ -28,6 +28,7 @@
  ![Snake animation](https://github.com/FabioMatheus777/FabioMatheus777/blob/output/github-contribution-grid-snake.svg)
 
  </div>
+ <img height="180em" width="120em" src="https://media.tenor.com/rkY5QA5c3VAAAAAM/gato-digitando.gif"/>
 
 
 
